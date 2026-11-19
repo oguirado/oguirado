@@ -8,7 +8,7 @@ Linux, low level, Rust, Go and Python. Every project below states its own limits
 **[ViewPoint](https://github.com/oguirado/ViewPoint)** · Rust · Go · Python · Electron + Vue · AGPL-3.0
 A Linux desktop where a person and AI agents work the same real programs, each in its own capsule, on one wall. In this hackathon build the agents are Gemini.
 Every agent action is checked against a fresh screen frame before it counts, capsules can be rewound, and a human can take control back at any time. Built on the MetaViewer core.
-CI and the quickstart run on x86_64 and ARM64; the full desktop wall has not yet been checked from a clean clone.
+CI and the quickstart run on x86_64 and ARM64.
 [Live demo](https://viewpoint-swarm-viewer-dtrnknr6bq-ew.a.run.app) · [2-min video](https://www.youtube.com/watch?v=k-59hnctF6M)
 
 **[TaskLight](https://github.com/oguirado/TaskLight)** · TypeScript · Python · Firebase AI Logic · AGPL-3.0
